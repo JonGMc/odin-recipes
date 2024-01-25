@@ -1,0 +1,25 @@
+body {
+    background-color: blueviolet;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    margin: 0px auto;
+    text-align: center;
+    color: aliceblue;
+    margin-top: 40px;
+
+}
+
+h1 {
+    font-size: 40px;
+}
+
+ul {
+    display: inline;
+    
+}
+
+a {
+    color: bisque;
+    font-size: 20px;
+    padding: 20px;
+    
+}
